@@ -1,0 +1,23 @@
+#gameDiv
+{
+  margin: 0px;
+  float: left;
+}
+
+#phaser_area
+{
+  position: absolute;
+}
+
+#threejs_area
+{
+  position: relative;
+  float:left;
+}
+
+/*
+#gl_canvas
+{
+  opacity: 0.1;
+}
+*/
