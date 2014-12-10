@@ -11,4 +11,4 @@ The game is based upon Phaser state in 3 files: "loader.js" (data preloading), "
 
 For players
 -----------
-You can freely play to the game on [Celisoft](http://www.celisoft.com/games/sfs.php) website.
+You can freely play to the game on [Celisoft](http://www.celisoft.com/games/sfs.php) website or on [itch.io](http://celisoft.itch.io/santa-flappy-sled).
